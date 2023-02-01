@@ -1,2 +1,5 @@
 week4/harvard-museum-api-demo/js/script.js
 week4/newYorkTimes-api-demo/js/script.js
+
+#git rm --cached week4/newYorkTimes-api-demo/js/script.js
+#git rm --cached week4/harvard-museum-api-demo/js/script.js
